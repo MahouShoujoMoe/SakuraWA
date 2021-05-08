@@ -1,3 +1,4 @@
-Add the Images file into AddOns folder. Do not change the name. Do not move to other folders. Unless you know where to change the address in WA as well.
-Necrolord Covenant ability only.
-No Surrendr to Madness. No Damnation.
+Download the Images folder from the Github and place it into the Interface\AddOns folder. 
+Do not move to other folders. 
+Only supports Necrolord Covenant ability. 
+Cannot be used for Surrender to Madness and Damnation.
